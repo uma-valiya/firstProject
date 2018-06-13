@@ -22,4 +22,4 @@ Feature: Calculator
     Scenario: Division 
     Given I have a calculator
     When I Divide 8 with 4
-    Then the result should be 21
+    Then the result should be 2
