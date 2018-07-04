@@ -33,4 +33,3 @@ Feature: Calculator
     Given I have a calculator
     When I add 15 and 15
     Then the result should be 30 
-    
