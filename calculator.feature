@@ -1,7 +1,7 @@
 Feature: Calculator
   As a user
   I want to use a calculator
-  So that I don't need to calculate myself
+  So that I don't need to calculate my-self
 
     @requirementKey=OPQ-RQ-168
     Scenario Outline: Addition of integer numbers
