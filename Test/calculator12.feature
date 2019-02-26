@@ -23,3 +23,4 @@ Feature: Calculator12
     Given I have a calculator
     When I Divide 10 with 2
     Then the result should be 5
+Update
